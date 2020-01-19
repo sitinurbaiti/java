@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<EditText
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:id="@+id/ekdbrg"
+android:hint="@string/ekdbrg"/>
+<EditText
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:id="@+id/enmbrg"
+android:hint="@string/enmbrg"/>
+<EditText
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:id="@+id/esatuan"
+android:hint="@string/esatuan"/>
+<EditText
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:id="@+id/ejumlah"
+android:hint="@string/ejumlah"/>
+
+<Button
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:id="@+id/simpan"
+android:text="@string/simpan"/>
+</LinearLayout>

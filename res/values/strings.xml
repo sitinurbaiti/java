@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">Data Stock Barang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ekdbrg">Masukan Kode Barang</string>
+    <string name="enmbrg">Masukkan Nama Barang</string>
+    <string name="esatuan">Masukkan Satuan Barang</string>
+    <string name="ejumlah">Masukkan Jumlah Barang</string>
+    <string name="simpan">Simpan</string>
+   
+</resources>
